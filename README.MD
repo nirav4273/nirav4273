@@ -63,6 +63,11 @@ FastAPI based AI service to detect whether an image is AI generated or real with
 
 ---
 
+### ADA WCAG Scanner
+Accessibility scanning SaaS for ADA/WCAG workflows.
+
+---
+
 
 ## 📊 GitHub Stats
 
