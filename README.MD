@@ -1,19 +1,17 @@
 # Hi 👋 I'm Nirav Patel
 
-🚀 AI & Full-Stack Developer from India
+🚀 Full-Stack Developer
 
 I build **AI-powered applications, developer tools, and intelligent search systems** using modern frameworks and LLM technologies.
 
 ---
 
 ## 🧠 Expertise
-
+• Full-Stack Web Development  
+• Developer Productivity Tools  
 • AI Application Development  
 • LLM & LangChain Systems  
 • RAG & Agentic Search  
-• Full-Stack Web Development  
-• Developer Productivity Tools  
-
 ---
 
 ## ⚙️ Tech Stack
