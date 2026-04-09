@@ -29,7 +29,6 @@ Backend
 
 AI / LLM
 - LangChain
-- Groq
 - Open Source LLMs
 - RAG Systems
 - Vector Databases
