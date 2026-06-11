@@ -56,20 +56,13 @@ AI-powered Chrome extension that automatically generates PR titles and commit me
 
 ---
 
-### AI Fake Image Detection API
-FastAPI based AI service to detect whether an image is AI generated or real with reasoning output.
-
----
-
 ### ADA WCAG Scanner
 Accessibility scanning SaaS for ADA/WCAG workflows.
-
+[Code] (https://github.com/nirav4273/WCAG-Compliance-Scanner)
 ---
 
 
 ## 📊 GitHub Stats
-
-![Nirav's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirav4273&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirav4273&layout=compact)
 
