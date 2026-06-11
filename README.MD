@@ -51,9 +51,7 @@ Tech: Next.js, Python, LangChain
 ---
 
 ### PR Title & Commit Generator
-AI powered Chrome extension that generates PR titles and commit descriptions automatically for GitHub, GitLab, Bitbucket, and Azure DevOps.
-
-![Extension Link](https://chromewebstore.google.com/detail/pcgcbgcioenclhbeecfagfodhmjokafb?utm_source=item-share-cb)
+AI powered Chrome extension that generates PR titles and commit descriptions automatically for GitHub, GitLab, Bitbucket, and Azure DevOps. ![Extension Link](https://chromewebstore.google.com/detail/pcgcbgcioenclhbeecfagfodhmjokafb?utm_source=item-share-cb)
 ---
 
 ### AI Fake Image Detection API
