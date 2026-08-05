@@ -112,6 +112,14 @@ AI-powered Chrome extension that automatically generates PR titles and commit me
 
 ---
 
+### Interactive System Design Playground
+
+A growing library of small, interactive visualizations that teach system design concepts — rate limiters, load balancers, caching, and more — by letting you tune parameters and watch the system react live, instead of reading static diagrams.
+
+🔗 **Chrome Web Store:** https://system-design-by-me.web.app/
+
+---
+
 ### ADA WCAG Scanner
 
 Accessibility auditing tool that helps developers identify WCAG compliance issues and improve web accessibility.
