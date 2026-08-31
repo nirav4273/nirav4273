@@ -13,8 +13,6 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Open_to_Freelance_%26_Full--Time_Roles-2E9CCA?style=for-the-badge" />
-
 </div>
 
 ---
