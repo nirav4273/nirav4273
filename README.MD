@@ -75,29 +75,14 @@ I currently ship enterprise features for clients in the **food supply-chain / ra
 
 ### 🚀 Featured Projects
 
-**[ACME Salary Management](https://github.com/nirav4273/salary-management-test)**
-`Node.js · Express · Prisma · Next.js 15 · shadcn/ui · Recharts`
-HR salary management system replacing Excel for 10,000 employees across 15 countries — a paginated employee directory with inline salary editing, plus an analytics dashboard for headcount and salary distribution. Built test-driven with **122 passing tests** (61 backend + 61 frontend) and full architecture docs/ADRs, using Claude Code throughout the build.
-
-**[ADA WCAG Scanner](https://github.com/nirav4273/WCAG-Compliance-Scanner)**
-`Next.js · TypeScript · Drizzle ORM · Neon Postgres · Turborepo`
-Accessibility scanning SaaS, structured as a monorepo, that audits websites for ADA/WCAG compliance issues and produces actionable fix guides and agency-ready PDF reports.
-
-**[PlateUp — Fridge to Meal Planner](https://github.com/nirav4273/plateup-ai)**
-`Vanilla JS · GPT-4o Vision · GPT-Image-2`
-Snap a photo of your fridge and get 3 personalized recipes — complete with AI-generated dish photos and step-by-step instructions. Zero dependencies, runs entirely client-side.
-
-**[Interactive System Design Playground](https://system-design-by-me.web.app)**
-`React`
-Interactive visualizations that teach system design concepts — rate limiters, load balancers, caching — by tuning live parameters instead of reading static diagrams.
-
-**PR Title & Commit Generator** — [Chrome Web Store](https://chromewebstore.google.com/detail/pcgcbgcioenclhbeecfagfodhmjokafb)
-`Chrome Extension`
-AI-powered extension that auto-generates PR titles and commit messages for GitHub, GitLab, Bitbucket, and Azure DevOps.
-
-**AI File Chat System**
-`Next.js · Python · LangChain`
-LLM-powered file search system — upload documents and ask questions across them using retrieval-augmented generation.
+| Project | Description | Stack |
+|---|---|---|
+| **[PlateUp AI](https://github.com/nirav4273/plateup-ai)** | AI app that takes a photo of a dish and returns a matching recipe based on the selected flow. | AI / LangChain |
+| **[WCAG Compliance Scanner](https://github.com/nirav4273/WCAG-Compliance-Scanner)** | AI-built accessibility auditing tool that scans web pages for WCAG compliance issues. | AI-assisted dev |
+| **[Salary Management System](https://github.com/nirav4273/salary-management-test)** | Payroll / salary management app built using an AI-driven development workflow. | AI-assisted dev |
+| **[Interactive System Design Playground](https://system-design-by-me.web.app)** | Interactive visualizations that teach system design concepts — rate limiters, load balancers, caching — by tuning live parameters instead of reading static diagrams. | React |
+| **PR Title & Commit Generator** — [Chrome Web Store](https://chromewebstore.google.com/detail/pcgcbgcioenclhbeecfagfodhmjokafb) | AI-powered Chrome extension that auto-generates PR titles and commit messages for GitHub, GitLab, Bitbucket, and Azure DevOps. | Chrome Extension / AI |
+| **AI File Chat System** | LLM-powered file search system — upload files and ask questions across documents using intelligent retrieval (RAG). | Next.js, Python, LangChain |
 
 ---
 
