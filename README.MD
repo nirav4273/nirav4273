@@ -1,150 +1,127 @@
-# Hi 👋 I'm Nirav Patel
+<div align="center">
 
-🚀 Full-Stack JavaScript Developer | AI Engineer | Builder of Developer Tools
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Hi%20👋%2C%20I'm%20Nirav%20Patel&fontSize=42&fontColor=ffffff&fontAlignY=36&animation=fadeIn&width=1200" width="100%"/>
 
-I build scalable web applications, AI-powered products, developer productivity tools, and intelligent search systems using modern JavaScript frameworks, cloud-native architectures, and Large Language Models (LLMs).
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E9CCA&center=true&vCenter=true&width=650&lines=Senior+Full-Stack+Developer+%7C+10%2B+Years;React.js+%C2%B7+TypeScript+%C2%B7+Node.js;Building+AI-Powered+Products+%26+Dev+Tools" alt="Typing SVG" />
 
-With strong experience across both frontend and backend development, I specialize in designing performant systems, APIs, microservices, automation workflows, and AI-driven applications that solve real-world problems.
+<br/>
 
----
+<a href="https://linkedin.com/in/niravpatel4273"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:nirav4273@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/nirav4273"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Location-Ahmedabad%2C%20India-4B5563?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
-## 🧠 Expertise
+<br/><br/>
 
-### Full-Stack Development
+<img src="https://img.shields.io/badge/Open_to_Freelance_%26_Full--Time_Roles-2E9CCA?style=for-the-badge" />
 
-* Building production-ready web applications
-* REST APIs & Backend Architecture
-* Authentication & Authorization
-* Microservices & Event-Driven Systems
-* Real-Time Applications
-
-### JavaScript Ecosystem
-
-* Node.js & Express.js
-* Next.js & React
-* TypeScript
-* Async Programming & Event Loop Internals
-* Performance Optimization
-* API Design & Scalability
-
-### AI & LLM Engineering
-
-* LangChain Applications
-* RAG (Retrieval-Augmented Generation)
-* Agentic Search Systems
-* Vector Databases
-* Open Source LLM Integration
-* AI Workflow Automation
-
-### Cloud & DevOps
-
-* Docker
-* CI/CD Pipelines
-* GitHub Actions
-* Deployment Automation
-* Monitoring & Logging
+</div>
 
 ---
 
-## ⚙️ Tech Stack
+### 🚀 About Me
 
-### Frontend
+I'm a **Senior Full-Stack Developer with 10+ years of experience** designing and shipping scalable, production-ready enterprise web applications. My core strength is **React.js, TypeScript, and Node.js** — building reusable UI component architectures, high-performance interfaces, and REST APIs that hold up under real production load.
 
-* Next.js
-* React
-* TypeScript
-* JavaScript (ES6+)
-* Tailwind CSS
-* HTML5
-* CSS3
+Over the last few years I've led engineering teams, owned client-facing technical delivery end-to-end, and worked hands-on across the stack — from complex form architecture and permission systems on the front end, to layered Controller-Service-Repository backends and event-driven services. More recently, I've been building **AI-powered products and developer tools** on top of LangChain, RAG pipelines, and LLM agents, and using tools like Claude and GitHub Copilot as part of my everyday engineering workflow.
 
-### Backend
-
-* Node.js
-* Express.js
-* FastAPI
-* Python
-* REST APIs
-* Webhooks
-* Authentication Systems
-
-### AI / LLM
-
-* LangChain
-* RAG Pipelines
-* Vector Databases
-* Open Source LLMs
-* Prompt Engineering
-* AI Agents
-
-### Databases
-
-* PostgreSQL
-* MongoDB
-* MySQL
-* Redis
-
-### DevOps & Tools
-
-* Docker
-* Git & GitHub
-* GitHub Actions
-* Chrome Extensions
-* Automation Workflows
+I currently ship enterprise features for clients in the **food supply-chain / raw-material management** and **workforce time-tracking** domains.
 
 ---
 
-## 🚀 Featured Projects
+### 🧠 What I Do
 
-### AI File Chat System
-
-LLM-powered file search system that allows users to upload files and ask questions across documents using intelligent retrieval.
-
-**Tech:** Next.js, Python, LangChain
-
----
-
-### PR Title & Commit Generator
-
-AI-powered Chrome extension that automatically generates PR titles and commit messages for GitHub, GitLab, Bitbucket, and Azure DevOps.
-
-🔗 **Chrome Web Store:** https://chromewebstore.google.com/detail/pcgcbgcioenclhbeecfagfodhmjokafb?utm_source=item-share-cb
+- 🏗️ Build production-ready, scalable full-stack web applications
+- 🎨 Design reusable, performant React/TypeScript UI systems with a strong focus on UX
+- 🔌 Design and integrate REST APIs, microservices, and event-driven backends
+- 🔐 Architect role-and-permission-based access control for multi-tenant SaaS products
+- 🤖 Build AI-powered tools — RAG pipelines, agentic search, and LLM-driven automation
+- ☁️ Deploy and operate applications on AWS and Digital Ocean
+- 👥 Lead Agile/Scrum teams and translate business requirements into technical delivery
 
 ---
 
-### Interactive System Design Playground
+### 🛠️ Tech Stack
 
-A growing library of small, interactive visualizations that teach system design concepts — rate limiters, load balancers, caching, and more — by letting you tune parameters and watch the system react live, instead of reading static diagrams.
+**Frontend**
+<p> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> </p>
 
-🔗 **Chrome Web Store:** https://system-design-by-me.web.app/
+**Backend**
+<p> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> </p>
 
----
+**Cross-Platform**
+<p> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> </p>
 
-### ADA WCAG Scanner
+**AI / LLM**
+<p> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/RAG_Pipelines-6E56CF?style=flat-square" /> <img src="https://img.shields.io/badge/AI_Agents-6E56CF?style=flat-square" /> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" /> </p>
 
-Accessibility auditing tool that helps developers identify WCAG compliance issues and improve web accessibility.
+**Databases**
+<p> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> </p>
 
----
-
-## 📊 What I Work On
-
-* Scalable Node.js Backends
-* Microservices Architecture
-* AI-Powered Search Applications
-* Chrome Extensions
-* Developer Productivity Tools
-* RAG & Agentic Systems
-* API Design & System Architecture
-* Performance Optimization
+**Cloud & DevOps**
+<p> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> </p>
 
 ---
 
-## 📫 Connect With Me
+### 💼 Enterprise Case Studies
 
-### LinkedIn
+**Food Raw-Material Management SaaS** — End-to-end platform for processing, inventory, and order management with a role-and-permission-based admin panel. Migrated large, interdependent forms from Formik to React Hook Form + Yup to resolve re-render and dynamic-validation issues, within a modular monolithic architecture supporting multiple teams in parallel.
 
-https://www.linkedin.com/in/niravpatel4273
+**Task & Time-Tracking SaaS** — Multi-role, permission-driven platform aggregating tasks from multiple sources, with a centralized permission store and a reusable wrapper controlling component/route-level access. Shipped a cross-platform Electron desktop app for time logging, powering user, project, and financial reporting.
+
+**Music Streaming Platform** — Custom, calendar-scheduled playlist streaming. When Node.js's single-threaded model became a concurrency bottleneck, researched and adapted Go's GoFM package to rebuild the core scheduling/streaming service in Go — improving concurrent playback throughput and file I/O performance.
 
 ---
 
-⭐ Always interested in building impactful products, AI applications, developer tools, and scalable backend systems.
+### 🚀 Featured Projects
+
+**[ACME Salary Management](https://github.com/nirav4273/salary-management-test)**
+`Node.js · Express · Prisma · Next.js 15 · shadcn/ui · Recharts`
+HR salary management system replacing Excel for 10,000 employees across 15 countries — a paginated employee directory with inline salary editing, plus an analytics dashboard for headcount and salary distribution. Built test-driven with **122 passing tests** (61 backend + 61 frontend) and full architecture docs/ADRs, using Claude Code throughout the build.
+
+**[ADA WCAG Scanner](https://github.com/nirav4273/WCAG-Compliance-Scanner)**
+`Next.js · TypeScript · Drizzle ORM · Neon Postgres · Turborepo`
+Accessibility scanning SaaS, structured as a monorepo, that audits websites for ADA/WCAG compliance issues and produces actionable fix guides and agency-ready PDF reports.
+
+**[PlateUp — Fridge to Meal Planner](https://github.com/nirav4273/plateup-ai)**
+`Vanilla JS · GPT-4o Vision · GPT-Image-2`
+Snap a photo of your fridge and get 3 personalized recipes — complete with AI-generated dish photos and step-by-step instructions. Zero dependencies, runs entirely client-side.
+
+**[Interactive System Design Playground](https://system-design-by-me.web.app)**
+`React`
+Interactive visualizations that teach system design concepts — rate limiters, load balancers, caching — by tuning live parameters instead of reading static diagrams.
+
+**PR Title & Commit Generator** — [Chrome Web Store](https://chromewebstore.google.com/detail/pcgcbgcioenclhbeecfagfodhmjokafb)
+`Chrome Extension`
+AI-powered extension that auto-generates PR titles and commit messages for GitHub, GitLab, Bitbucket, and Azure DevOps.
+
+**AI File Chat System**
+`Next.js · Python · LangChain`
+LLM-powered file search system — upload documents and ask questions across them using retrieval-augmented generation.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nirav4273&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nirav4273&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirav4273&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/niravpatel4273"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:nirav4273@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/nirav4273"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<div align="center">
+<sub>⭐ Always open to conversations about full-stack engineering, AI-powered products, and developer tooling.</sub>
+</div>
